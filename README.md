@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Griiinch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut je suis @Griiinch
+- 👀 Je commence le developpement ...
+- 🌱 J'ai 19 ans
+- 📫 Griiinch#6666
 
-<!---
-Griiinch/Griiinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+https://github.com/Griiinch/
